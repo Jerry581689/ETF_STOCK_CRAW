@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Node.js
+node_modules/
+package-lock.json
+
+# dotenv
+.env
+
+# VSCode 設定
+.vscode/
+
+# CSV 資料
+CSV/
